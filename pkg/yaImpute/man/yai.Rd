@@ -282,7 +282,7 @@ if (require(randomForest))
 
 \author{
   Nicholas L. Crookston \email{ncrookston.fs@gmail.com} \cr
-  John Coulston \email{jcoulston@fs.fed.us} \cr
+  John Coulston \email{jcoulston@fs.usda.gov} \cr
   Andrew O. Finley \email{finleya@msu.edu} 
 }
 

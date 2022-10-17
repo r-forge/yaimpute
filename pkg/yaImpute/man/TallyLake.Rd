@@ -60,10 +60,11 @@ data(TallyLake)
 \references{
   Stage, A.R.; Crookston, N.L. 2007. Partitioning error components
   for accuracy-assessment of near neighbor methods of imputation.
-  \emph{For. Sci.} 53(1):62-72 \url{http://www.treesearch.fs.fed.us/pubs/28385}
+  \emph{For. Sci.} 53(1):62-72 \url{https://www.fs.usda.gov/research/treesearch/28385}
                                                                                      
   Stage, A.R. (1976). An expression for the effect of aspect, slope, and
-  habitat type on tree growth. \emph{For. Sci.} 22(4):457-460.
+  habitat type on tree growth. \emph{For. Sci.} 22(4):457-460.  
+  \url{https://www.fs.usda.gov/research/treesearch/46339}
 }
 
 \source{
