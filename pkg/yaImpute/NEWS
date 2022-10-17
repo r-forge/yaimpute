@@ -1,3 +1,8 @@
+Changes in version 1.0-34:
+
+* Changed reference to original JSS paper to use doi as suggested by Achim Zeileis.
+* Changed maintainer to Jeffrey Evans <jeffrey_evans "at" tnc.org>
+
 Changes in version 1.0-33:
 
 * Added code in newtargets() that changes "newdata" to a dataframe if 

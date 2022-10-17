@@ -1,11 +1,11 @@
 Package: yaImpute
-Version: 1.0-33
-Date: 2020-06-30
+Version: 1.0-34
+Date: 2022-10-17
 Title: Nearest Neighbor Observation Imputation and Evaluation Tools
 Author: Nicholas L. Crookston, Andrew O. Finley, John Coulston (Sunil Arya and David Mount for ANN)
 Copyright: ANN library is copyright University of Maryland and Sunil
         Arya and David Mount. See file COPYRIGHTS for details.
-Maintainer: Nicholas L. Crookston <ncrookston.fs@gmail.com>
+Maintainer: Jeffrey Evans <jeffrey_evans@tnc.org>
 Depends: R (>= 3.0.0)
 Imports: grDevices, graphics, stats, utils
 Suggests: vegan, ccaPP, randomForest, gam, fastICA, parallel, gower
