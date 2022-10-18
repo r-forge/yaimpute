@@ -4,7 +4,7 @@ Date: 2022-10-18
 Title: Nearest Neighbor Observation Imputation and Evaluation Tools
 Author: Nicholas L. Crookston, Andrew O. Finley, Jeffrey Evans, John Coulston (Sunil Arya and David Mount for ANN)
 Copyright: ANN library is copyright University of Maryland and Sunil
-        Arya and David Mount. See file COPYRIGHTS for details.
+           Arya and David Mount. See file COPYRIGHTS for details.
 Maintainer: Jeffrey Evans <jeffrey_evans@tnc.org>
 Depends: R (>= 3.0.0)
 Imports: grDevices, graphics, stats, utils
@@ -12,7 +12,7 @@ Suggests: vegan, ccaPP, randomForest, gam, fastICA, parallel, gower
 NeedsCompilation: yes
 Description: Performs nearest neighbor-based imputation using one or more alternative 
  approaches to processing multivariate data. These include methods based on canonical 
- correlation analysis, canonical correspondence analysis, and a multivariate adaptation 
+ correlation: analysis, canonical correspondence analysis, and a multivariate adaptation 
  of the random forest classification and regression techniques of Leo Breiman and Adele 
  Cutler. Additional methods are also offered. The package includes functions for 
  comparing the results from running alternative techniques, detecting imputation targets 
